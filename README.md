@@ -1,8 +1,5 @@
 ### Hey there! I'm a passionate Student Developer 👋
 
-<!--
-**armaanranjan/armaanranjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 - 📚 I'm currently a 1st-year student at SRM Institute of Science and Technology, Kattankulathur, pursuing Computer Science Engineering with specialization in data science 
 - ⚡my coding journey began a year ago and I have been hooked ever since.Solving new problems and learning new technologies excites me very much.
@@ -15,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me:armaan.ranjan04@gmail.com
 - 😄 Pronouns: he/him
 
--->
