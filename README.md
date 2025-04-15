@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me:armaan.ranjan04@gmail.com
 - 😄 Pronouns: he/him
 
--aws c cplusplus css3 docker dotnet express firebase git html5 javascript mongodb mysql nodejs opencv pandas python pytorch react scikit_learn seaborn tensorflow
