@@ -1,7 +1,7 @@
 ### Hey there! I'm a passionate Student Developer 👋
 
 Here are some ideas to get you started:
-- 📚 I'm currently a 1st-year student at SRM Institute of Science and Technology, Kattankulathur, pursuing Computer Science Engineering with specialization in data science 
+- 📚 I'm currently a 2nd-year student at SRM Institute of Science and Technology, Kattankulathur, pursuing Computer Science Engineering with specialization in data science 
 - ⚡my coding journey began a year ago and I have been hooked ever since.Solving new problems and learning new technologies excites me very much.
 
 - 🔭 Currently I am focusiong on C,C++ and Python,Where I am trying to solve new and modern day problems using these technologies.
