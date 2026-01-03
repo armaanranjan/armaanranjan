@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 - 🔭 Currently I am focusiong on Backend and System Architecture,Where I am trying to solve new and modern day problems using these technologies.
 - 🌱 I’m currently learning ML and DL
 - 👯 I am always on the lookout for new learning opportunities and excited to connect with tech enthusiasts. Let's collaborate, innovate, and grow together in this evolving tech realm.
-
-- 🤔 I’m currently working on Music-Genre Classification 
+- 🔥 My current interests are Robotics, Quant Finance and Mathematical Computing
+- 🤔 I’m currently working on Swarm Robotics and Navigation 
 - 📫 How to reach me:armaan.ranjan04@gmail.com
 - 😄 Pronouns: he/him
 
